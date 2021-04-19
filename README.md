@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Call me Andy. I'm interested in AI research and competing in hackathons! :)
+
+[![Andy's github stats](https://github-readme-stats.vercel.app/api?username=andrealit)](https://github.com/andrealit/github-readme-stats)
