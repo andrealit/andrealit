@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Call me Andy. I'm interested in AI research and competing in hackathons! :)
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrealit&show_icons=true&theme=radical)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrealit&show_icons=true&theme=buefy)
 
